@@ -1,0 +1,9 @@
+<resources>
+    <array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Non Binary</item>
+        <item>Prefer Not Say</item>
+    </array>
+</resources>
